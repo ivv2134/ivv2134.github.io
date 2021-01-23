@@ -1,6 +1,7 @@
 body {
     padding-left: 5%;
     padding-right: 5%;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 button {
@@ -19,5 +20,6 @@ button {
     body {
         padding-left: 25%;
         padding-right: 25%;
+        font-family: Arial, Helvetica, sans-serif;
     }
 }
