@@ -2,7 +2,12 @@ const FORM_URLS = ["https://docs.google.com/forms/d/e/1FAIpQLSenu0K9ph-dDCTDyLwl
 
 let url = FORM_URLS[Math.floor(Math.random() * FORM_URLS.length)];
 
-document.getElementById("form_link").href = url;
-window.setTimeout(function() {
+document.getElementById("agree_button").addEventListener("click", function() {
     window.location.href = url;
-},5000);
+});
+
+// document.getElementById("form_link").href = url;
+
+// window.setTimeout(function() {
+//     window.location.href = url;
+// },5000);
