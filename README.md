@@ -1,16 +1,16 @@
 # Cognitive Style Differences and Confirmation Bias in Information Behavior Related to Online Health Information
 
-Investigators: [Unsere Namen], Chair of Information Science, University of Regensburg
+Investigators: Eva Pulina, Johannes Hoffmann, Chair of Information Science, University of Regensburg
 
 **Exception**: Students who already conducted in another study of “Informationsverhalten verstehen” in Wintersemester 2020/21 by Prof. Dr. David Elsweiler (see list below), can not participate.
 
 ### Project Overview:
 
-Participation in this research project is voluntary and is being done by Eva Pulina, Ahmad Alebbou, …..  as part of their class project to evaluate information behavior on web search results in the context of the COVID-19 pandemic. Your participation will take about 45 minutes including personality tests, rating of search results and demographic information. If you take part as a student of the University of Regensburg you have the opportunity to receive one “VP-Stunde”. This research could help to better understand the information behavior about online health information..
+Participation in this research project is voluntary and is being done by Eva Pulina, Johannes Hoffmann and their research groups, as part of their class project to evaluate information behavior on web search results in the context of the COVID-19 pandemic. Your participation will take about 45 minutes including personality tests, rating of search results and demographic information. If you take part as a student of the University of Regensburg you have the opportunity to receive one “VP-Stunde”. This research could help to better understand the information behavior about online health information..
 
 If you would like to take part, it is required that you agree to this consent form by clicking the “I agree” button at the end of the page.
 
-You may ask Eva Pulina (eva.pulina@stud.uni-regensburg.de) any questions to help you understand this study. If you choose to be a part of this study, you have the right to change your mind and stop being a part of the study at any time.
+You may ask Eva Pulina (eva.pulina@stud.uni-regensburg.de) or Johannes Hoffmann (johannes-maximilian.hoffmann@stud.uni-regensburg.de) any questions to help you understand this study. If you choose to be a part of this study, you have the right to change your mind and stop being a part of the study at any time.
 
 1. **What is the purpose of the study?**
  * Evaluate information behavior on web search results in the context of the COVID-19 pandemic.
